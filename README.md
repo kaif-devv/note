@@ -9,7 +9,7 @@ This is a full-stack MERN application that allows users to create, read, update 
 ### Step 1: Clone the repo or download
 
 ```bash
-git clone https://github.com/sohelrana1304/note-up.git
+git clone https://github.com/kaif-devv/note.git
 ```
 
 ### Step 2: cd into the cloned repo and run:
@@ -58,4 +58,4 @@ JWT_SECRET=YOUR SECRET KEY
 
 ## Author
 
-[**Author**](https://github.com/sohelrana1304)
+[**Author**](https://github.com/kaif-devv)
